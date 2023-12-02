@@ -1,0 +1,48 @@
+/*
+  Localizable.strings
+
+  Copyright Spotify. All rights reserved.
+*/
+
+
+"sInstallerOsxAskUserToAuthenticate." = "Spotify treba odobrenje za instaliranje.";
+"sInstallerOsxAskUserToQuitSpotify" = "Napustite Spotify i pokušajte ponovo";
+"sInstallerOsxContinueInBackground" = "Nastavi u pozadini";
+"sInstallerOsxDownloadFailedErrorDescription" = "Došlo je do greške prilikom pokušaja preuzimanja Spotifyja.";
+"sInstallerOsxDownloadFailedRetryIn" = "Preuzimanje nije uspjelo. Ponovni pokušaj za %1$d s.";
+"sInstallerOsxDownloadingSpotify" = "Preuzimanje Spotifya…";
+"sInstallerOsxExtractionFailedErrorDescription" = "Došlo je do greške prilikom pokušaja izdvajanja Spotifyja.";
+"sInstallerOsxGenericErrorDescription" = "Došlo je do greške prilikom pokušaja instaliranja Spotifyja.";
+"sInstallerOsxInstallFailedErrorDescription" = "Došlo je do greške prilikom pokušaja instaliranja Spotifyja.";
+"sInstallerOsxInstallationFailed" = "Instalacija nije uspjela";
+"sInstallerOsxInstallationFailedDefaultButtonTitle" = "Preuzmite sa Spotify.com";
+"sInstallerOsxInstallationIncompleteContinueButtonTitle" = "Nastavi instalaciju";
+"sInstallerOsxInstallationIncompleteDesc" = "Instaliranje Spotifyja je skoro gotovo. Jeste li sigurni da želite odustati?";
+"sInstallerOsxInstallationIncompleteTitle" = "Instalacija nije završena";
+"sInstallerOsxInstallingSpotify" = "Instaliranje Spotifya…";
+"sInstallerOsxMMAboutInstallSpotify" = "O Instaliranju Spotifya";
+"sInstallerOsxMMBringAllToFront" = "Prikaži sve naprijed";
+"sInstallerOsxMMHelp" = "Pomoć";
+"sInstallerOsxMMHideInstallSpotify" = "Sakrij Instaliranje Spotifya";
+"sInstallerOsxMMHideOthers" = "Sakrij druge";
+"sInstallerOsxMMInstallSpotify" = "Instaliranje Spotifya";
+"sInstallerOsxMMInstallSpotifyHelp" = "Pomoć za instaliranje Spotifya";
+"sInstallerOsxMMMinimize" = "Minimiziraj";
+"sInstallerOsxMMQuitInstallSpotify" = "Napusti instaliranje Spotifya";
+"sInstallerOsxMMServices" = "Usluge";
+"sInstallerOsxMMShowAll" = "Prikaži sve";
+"sInstallerOsxMMWindow" = "Prozor";
+"sInstallerOsxMMZoom" = "Zumiranje";
+"sInstallerOsxMountFailedErrorDescription" = "Došlo je do greške prilikom pokušaja postavljanja preuzete slike Spotifyja s diska.";
+"sInstallerOsxMoveApplicationButtonDoNotMove" = "Ne premještaj";
+"sInstallerOsxMoveApplicationButtonMove" = "Premjesti u folder Aplikacije";
+"sInstallerOsxMoveApplicationCouldNotMove" = "Premještanje u folder Aplikacije nije uspjelo";
+"sInstallerOsxMoveApplicationQuestionInfoInDownloadsFolder" = "Ovo će organizirati folder Preuzimanja.";
+"sInstallerOsxMoveApplicationQuestionInfoWillRequirePasswd" = "Imajte na umu da će ovo zahtijevati lozinku administratora.";
+"sInstallerOsxMoveApplicationQuestionMessage" = "Mogu se premjestiti u folder Aplikacije ako želite.";
+"sInstallerOsxMoveApplicationQuestionTitle" = "Premjestiti u folder Aplikacije?";
+"sInstallerOsxMoveApplicationQuestionTitleHome" = "Premjestiti u folder Aplikacije na Početnoj stranici?";
+"sInstallerOsxQuitButtonTitle" = "Napusti";
+"sInstallerOsxUnsupportedPlatformDesc" = "Sorry, this version of Spotify is for macOS %1$s or later.";
+"sInstallerOsxUnsupportedPlatformHelp" = "Find installers for older versions";
+"sInstallerOsxUnsupportedPlatformTitle" = "Nepodržana platforma";

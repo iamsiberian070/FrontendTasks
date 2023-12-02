@@ -1,0 +1,48 @@
+/*
+  Localizable.strings
+
+  Copyright Spotify. All rights reserved.
+*/
+
+
+"sInstallerOsxAskUserToAuthenticate." = "Spotify necesita permiso para instalarse.";
+"sInstallerOsxAskUserToQuitSpotify" = "Sae de Spotify e téntao de novo";
+"sInstallerOsxContinueInBackground" = "Continuar en segundo plano";
+"sInstallerOsxDownloadFailedErrorDescription" = "Produciuse un erro ao tentar descargar Spotify.";
+"sInstallerOsxDownloadFailedRetryIn" = "Non se puido realizar a descarga. Tentarase de novo en %1$d s.";
+"sInstallerOsxDownloadingSpotify" = "Descargando Spotify…";
+"sInstallerOsxExtractionFailedErrorDescription" = "Produciuse un erro ao tentar extraer Spotify.";
+"sInstallerOsxGenericErrorDescription" = "Produciuse un erro ao tentar instalar Spotify.";
+"sInstallerOsxInstallFailedErrorDescription" = "Produciuse un erro ao tentar instalar Spotify.";
+"sInstallerOsxInstallationFailed" = "Non se puido realizar a instalación";
+"sInstallerOsxInstallationFailedDefaultButtonTitle" = "Descargar desde Spotify.com";
+"sInstallerOsxInstallationIncompleteContinueButtonTitle" = "Continuar instalación";
+"sInstallerOsxInstallationIncompleteDesc" = "A instalación de Spotify xa case finalizou. Seguro que queres saír?";
+"sInstallerOsxInstallationIncompleteTitle" = "Instalación incompleta";
+"sInstallerOsxInstallingSpotify" = "Instalando Spotify…";
+"sInstallerOsxMMAboutInstallSpotify" = "Acerca de Instalar Spotify";
+"sInstallerOsxMMBringAllToFront" = "Traer todo para adiante";
+"sInstallerOsxMMHelp" = "Axuda";
+"sInstallerOsxMMHideInstallSpotify" = "Ocultar Instalar Spotify";
+"sInstallerOsxMMHideOthers" = "Ocultar o resto";
+"sInstallerOsxMMInstallSpotify" = "Instalar Spotify";
+"sInstallerOsxMMInstallSpotifyHelp" = "Axuda para instalar Spotify";
+"sInstallerOsxMMMinimize" = "Minimizar";
+"sInstallerOsxMMQuitInstallSpotify" = "Saír de Instalar Spotify";
+"sInstallerOsxMMServices" = "Servizos";
+"sInstallerOsxMMShowAll" = "Mostrar todo";
+"sInstallerOsxMMWindow" = "Ventá";
+"sInstallerOsxMMZoom" = "Zoom";
+"sInstallerOsxMountFailedErrorDescription" = "Produciuse un erro ao tentar montar a imaxe de disco descargada de Spotify.";
+"sInstallerOsxMoveApplicationButtonDoNotMove" = "Non trasladar";
+"sInstallerOsxMoveApplicationButtonMove" = "Trasladar ao cartafol Aplicacións";
+"sInstallerOsxMoveApplicationCouldNotMove" = "Non se puido trasladar ao cartafol Aplicacións";
+"sInstallerOsxMoveApplicationQuestionInfoInDownloadsFolder" = "Isto manterá o teu cartafol Descargas ordenado.";
+"sInstallerOsxMoveApplicationQuestionInfoWillRequirePasswd" = "Ten en conta que isto require un contrasinal de administrador.";
+"sInstallerOsxMoveApplicationQuestionMessage" = "Se queres, podo trasladarme ao cartafol Aplicacións.";
+"sInstallerOsxMoveApplicationQuestionTitle" = "Queres trasladarme ao cartafol Aplicacións?";
+"sInstallerOsxMoveApplicationQuestionTitleHome" = "Queres trasladarme ao cartafol Aplicacións do cartafol de inicio?";
+"sInstallerOsxQuitButtonTitle" = "Saír";
+"sInstallerOsxUnsupportedPlatformDesc" = "Sorry, this version of Spotify is for macOS %1$s or later.";
+"sInstallerOsxUnsupportedPlatformHelp" = "Find installers for older versions";
+"sInstallerOsxUnsupportedPlatformTitle" = "Plataforma non compatible";

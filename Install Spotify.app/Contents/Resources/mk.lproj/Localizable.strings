@@ -1,0 +1,48 @@
+/*
+  Localizable.strings
+
+  Copyright Spotify. All rights reserved.
+*/
+
+
+"sInstallerOsxAskUserToAuthenticate." = "На Spotify му треба дозвола да се инсталира.";
+"sInstallerOsxAskUserToQuitSpotify" = "Напушти го Spotify и обиди се повторно";
+"sInstallerOsxContinueInBackground" = "Продолжи во заднина";
+"sInstallerOsxDownloadFailedErrorDescription" = "Се појави грешка при обидот да се преземе Spotify.";
+"sInstallerOsxDownloadFailedRetryIn" = "Преземањето не успеа. Ќе се обидеме повторно за %1$d сек.";
+"sInstallerOsxDownloadingSpotify" = "Се презема Spotify…";
+"sInstallerOsxExtractionFailedErrorDescription" = "Се појави грешка при обидот за извлекување на Spotify.";
+"sInstallerOsxGenericErrorDescription" = "Се појави грешка при обидот да се инсталира Spotify.";
+"sInstallerOsxInstallFailedErrorDescription" = "Се појави грешка при обидот да се инсталира Spotify.";
+"sInstallerOsxInstallationFailed" = "Инсталирањето не успеа";
+"sInstallerOsxInstallationFailedDefaultButtonTitle" = "Преземи од Spotify.com";
+"sInstallerOsxInstallationIncompleteContinueButtonTitle" = "Продолжи со инсталирањето";
+"sInstallerOsxInstallationIncompleteDesc" = "Инсталирањето на Spotify речиси е завршено. Дали навистина сакаш да напуштиш?";
+"sInstallerOsxInstallationIncompleteTitle" = "Инсталирањето не е завршено";
+"sInstallerOsxInstallingSpotify" = "Се инсталира Spotify…";
+"sInstallerOsxMMAboutInstallSpotify" = "За инсталирањето на Spotify";
+"sInstallerOsxMMBringAllToFront" = "Префрли ги сите напред";
+"sInstallerOsxMMHelp" = "Помош";
+"sInstallerOsxMMHideInstallSpotify" = "Скриј го инсталирањето на Spotify";
+"sInstallerOsxMMHideOthers" = "Скриј ги другите";
+"sInstallerOsxMMInstallSpotify" = "Инсталирај Spotify";
+"sInstallerOsxMMInstallSpotifyHelp" = "Инсталирај „Помош за Spotify“";
+"sInstallerOsxMMMinimize" = "Минимизирај";
+"sInstallerOsxMMQuitInstallSpotify" = "Напушти го инсталирањето на Spotify";
+"sInstallerOsxMMServices" = "Услуги";
+"sInstallerOsxMMShowAll" = "Прикажи ги сите";
+"sInstallerOsxMMWindow" = "Прозорец";
+"sInstallerOsxMMZoom" = "Зумирај";
+"sInstallerOsxMountFailedErrorDescription" = "Се појави грешка при обидот да се постави преземената слика од дискот на Spotify.";
+"sInstallerOsxMoveApplicationButtonDoNotMove" = "Не преместувај";
+"sInstallerOsxMoveApplicationButtonMove" = "Премести во папката „Апликации“";
+"sInstallerOsxMoveApplicationCouldNotMove" = "Не може да се премести во папката „Апликации“";
+"sInstallerOsxMoveApplicationQuestionInfoInDownloadsFolder" = "Со ова папката „Преземања“ ќе остане средена.";
+"sInstallerOsxMoveApplicationQuestionInfoWillRequirePasswd" = "Имај предвид дека за ова е потребна администраторска лозинка.";
+"sInstallerOsxMoveApplicationQuestionMessage" = "Ако сакаш, можам да се префрлам во папката „Апликации“.";
+"sInstallerOsxMoveApplicationQuestionTitle" = "Да се премести во папката „Апликации“?";
+"sInstallerOsxMoveApplicationQuestionTitleHome" = "Да се премести во папката „Апликации“ во папката „Почеток“?";
+"sInstallerOsxQuitButtonTitle" = "Напушти";
+"sInstallerOsxUnsupportedPlatformDesc" = "Sorry, this version of Spotify is for macOS %1$s or later.";
+"sInstallerOsxUnsupportedPlatformHelp" = "Find installers for older versions";
+"sInstallerOsxUnsupportedPlatformTitle" = "Неподдржана платформа";

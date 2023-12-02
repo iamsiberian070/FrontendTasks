@@ -1,0 +1,9 @@
+/*
+  InfoPlist.strings
+
+  Copyright Spotify. All rights reserved.
+*/
+
+
+"CFBundleDisplayName" = "Instal·lador de Spotify";
+"CFBundleName" = "Instal·lador de Spotify";
